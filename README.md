@@ -1,2 +1,1 @@
-# Curso-Node.js
-Este es un modulo del curso de Henry
+Esta es una prueba de como clonar repositorios a mi computadora desde Github
